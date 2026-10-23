@@ -1,6 +1,6 @@
 {
-  "name": "AlarmClock - Cosmic Mission & Focus Companion",
-  "description": "Futuristic galaxy-themed alarm clock with mission-based dismissal, focus-linked sessions, and persistent star rewards.",
+  "name": "FoodieHub - Online Food Ordering System with AI",
+  "description": "Full-stack food ordering platform with customer cart & checkout, live order tracking, admin restaurant dashboard, and Gemini-powered food assistant.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
