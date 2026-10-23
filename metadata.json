@@ -1,6 +1,6 @@
 {
-  "name": "FoodieHub - Online Food Ordering System with AI",
-  "description": "Full-stack food ordering platform with customer cart & checkout, live order tracking, admin restaurant dashboard, and Gemini-powered food assistant.",
+  "name": "AlarmClock - Cosmic Mission & Focus Productivity",
+  "description": "Futuristic galaxy-themed alarm clock with mission-based dismissal challenges (Math, Memory, Sequence), focus sessions, star rewards, and reliable browser Web Audio synthesis.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
